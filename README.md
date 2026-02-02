@@ -1,2 +1,5 @@
 # Zava-campaign-engine
-[FlowLens Demo] Marketing campaign orchestration — Team: Campaign Engine, Group: Marketing Tech
+
+Marketing campaign orchestration
+
+Update 1 by James Chen
