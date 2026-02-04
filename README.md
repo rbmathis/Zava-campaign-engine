@@ -2,4 +2,4 @@
 
 Marketing campaign orchestration
 
-Update 2 by Aisha Okafor
+Update 3 by Raj Patel
